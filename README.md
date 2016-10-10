@@ -4,5 +4,5 @@
 
 - Compilation
   - Compiler: gcc 6.2.0
-  - Arguments: gcc -Wall -Wextra -Werror -std=gnu99
+  - Arguments: gcc -Wall -Wextra -Werror -std=c99 -pedantic
 
